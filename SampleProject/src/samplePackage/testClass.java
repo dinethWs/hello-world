@@ -9,6 +9,8 @@ public class testClass {
 		System.out.println("Hello Nisura");
 		System.out.println("Hello ");
 		System.out.println("Hello ALLLLLLLL");
+		System.out.println("Hello ALLLL");
+		System.out.println("Dineth");
 
 	}
 
